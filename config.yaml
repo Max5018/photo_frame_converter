@@ -1,0 +1,13 @@
+# options
+write_missing_date_number: True
+overwrite: True # overwrite still existing files
+path_out: D:\test_pyth_out # Pfad ohne Leerzeichen
+
+# font size, standard = 30 // padding + radius not to changed normally
+font_size: 30
+padding: 10
+radius: 50
+
+# do not change
+max_width: 2000
+max_height: 1200

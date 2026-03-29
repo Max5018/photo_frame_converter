@@ -1,0 +1,2 @@
+0	hier wird nur geschrieben, wenn write_missing_date_number in config.yaml = True
+
